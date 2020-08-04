@@ -40,7 +40,7 @@ def add_s(array)
     if word == feet
       word == feet
     else
-      element + "s"
+      word + "s"
     end
   end
 end
